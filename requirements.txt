@@ -4,6 +4,7 @@ llama-index
 haystack
 langchain_mistralai
 llama-index-llms-mistralai
+llama-index-embeddings-huggingface
 
 # For a backend server (optional but recommended)
 fastapi
@@ -18,4 +19,5 @@ python-dotenv
 autogpt
 
 babyagi
+
 
