@@ -2,6 +2,7 @@
 langchain
 llama-index
 haystack
+langchain_mistralai
 
 # For a backend server (optional but recommended)
 fastapi
@@ -14,4 +15,5 @@ python-dotenv
 # Optional AI agent frameworks
 # (Install if you plan to use them; some may not be on PyPI or may require extra steps)
 autogpt
+
 babyagi
